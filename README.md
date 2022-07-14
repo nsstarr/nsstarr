@@ -48,4 +48,3 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasia-starostina)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Stats](https://github-readme-stats.vercel.app/api//?username=anastasia-starostina)](https://github.com/anuraghazra/github-readme-stats)
