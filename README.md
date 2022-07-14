@@ -11,7 +11,7 @@
 </div>
  <img src="https://komarev.com/ghpvc/?username=anastasia-starostina&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
+  Hi!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1></div>
 <div align="center">
@@ -40,5 +40,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 
+  ---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anastasia-starostina&theme=dark&background=000000)](https://git.io/streak-stats)
   
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasia-starostina)](https://github.com/anuraghazra/github-readme-stats)
+
