@@ -60,3 +60,5 @@ I'm an aspiring Fullstack developer currently training at the School of Code to 
   
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasia-starostina&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Stats](https://github-readme-stats.vercel.app/api//?username=anastasia-starostina&count_private=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
