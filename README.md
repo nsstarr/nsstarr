@@ -14,9 +14,6 @@
 <h2>
   Hi!
 </h2></div>
-<div align="center">
-  <img src="https://media.giphy.com/media/1zJUVAaJOg4myYaPxq/giphy.gif" width="300"/>
-</div>
 
 ### :woman_technologist: About Me :
 I'm an aspiring Fullstack developer currently training at the School of Code to become a better version of myself. 
