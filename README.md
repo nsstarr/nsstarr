@@ -11,9 +11,7 @@
   </a>
 </div>
  <img src="https://komarev.com/ghpvc/?username=anastasia-starostina&style=flat-square&color=blue" alt=""/>
-<h2>
-  Hi!
-</h2></div>
+</div>
 
 ### :woman_technologist: About Me :
 I'm an aspiring Fullstack developer currently training at the School of Code to become a better version of myself. 
