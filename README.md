@@ -14,12 +14,12 @@
 </div>
 
 ### :woman_technologist: About Me :
-I'm an aspiring Fullstack developer currently training at the School of Code to become a better version of myself. 
-- :telescope: Currently working as my final four week project at the School of Code. 
+Junior Full Stack Developer with a creative interest in UX & UI. I solve complex problems by turning them into practical & elegant solutions. I’m passionate about inclusive design, front-end frameworks and working within innovative teams with an agile mindset.
+- :telescope: Currently looking for my first Junior Developer Role.
 
 - :art: I'm also an Abstract Artist. You can see my work [here](https://www.instagram.com/anastasia.shtern).
 
-- :zap: In my free time, I take my dog for beach walks, read books about Zen & Design and go to art galleries.
+- :zap: In my free time, I take my dog for beach walks, read books about Zen philosophy and go to art galleries.
 
 - 	:mailbox_with_no_mail:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anastasia-starostina-900bb2130)
 ---
