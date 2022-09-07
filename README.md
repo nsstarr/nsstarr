@@ -18,7 +18,7 @@ Junior Full Stack Developer with a creative flair for UX & UI. I discovered my a
 
 ### Get In Touch:  [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anastasia-starostina-900bb2130)
 ---
-### Languages and Tools :
+### Languages and Frameworks :
 <div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
