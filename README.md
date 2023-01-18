@@ -44,7 +44,4 @@ Junior Full Stack Developer with a creative flair for UX & UI. I discovered my a
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anastasia-starostina&theme=nightowl)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasia-starostina&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Stats](https://github-readme-stats.vercel.app/api//?username=anastasia-starostina&count_private=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 </div>
