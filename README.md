@@ -13,7 +13,7 @@
  <img src="https://komarev.com/ghpvc/?username=anastasia-starostina&style=flat-square&color=blue" alt=""/>
 </div>
 
-Junior Full Stack Developer with a creative flair for UX & UI. I discovered my artistic passion within the digital space by solving complex coding problems & turning them into practical & elegant solutions. My focus is primarily in Frontend Frameworks, Inclusive Technologies, & Design Systems. I'm also an Abstract Artist. You can find work [here](https://www.instagram.com/anastasia.shtern)
+Junior Full Stack Developer with a creative flair for UX & UI. I discovered my artistic passion within the digital space by solving complex coding problems & turning them into practical & elegant solutions. My focus is primarily in Frontend Frameworks, Inclusive Technologies, & Design Systems.
 
 
 ### Get In Touch:  [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anastasia-starostina-900bb2130)
