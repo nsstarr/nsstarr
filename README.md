@@ -1,7 +1,5 @@
 
-<div id="header" align="center">
-  <img src="./ME.jfif" width="300"/>
-  
+<div id="header" align="center">  
 <div id="badges">
   <a href="https://www.linkedin.com/in/anastasia-starostina-900bb2130/">
     <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
