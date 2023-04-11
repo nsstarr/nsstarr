@@ -1,5 +1,5 @@
 
-Junior Full Stack Developer with a creative flair for UX & UI. I discovered my artistic passion within the digital space by solving complex coding problems & turning them into practical & elegant solutions. My focus is primarily in Frontend Frameworks, Inclusive Technologies, & Design Systems.
+Full Stack Web Developer with a creative flair for UX & UI. I discovered my artistic passion within the digital space by solving complex coding problems & turning them into practical & elegant solutions. My focus is primarily in Frontend Frameworks, Inclusive Technologies, & Design Systems.
 
 <div id="header" align="center">  
 <div id="badges">
