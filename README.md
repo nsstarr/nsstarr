@@ -1,4 +1,4 @@
-## About
+## About 👤
 
 Software Developer with experience across the full software development lifecycle with a strong foundation in UI/UX Design, frontend & backend, as well as web & mobile development. 
 Creative Technologist with excellent problem-solving skills & the ability to function & thrive well independently & in fast-paced team environments offering an extensive background in Art & Design coupled with a pro-active dynamic approach to work. 
@@ -19,7 +19,7 @@ Creative Technologist with excellent problem-solving skills & the ability to fun
 | **Testing** | ![Jest](https://img.shields.io/badge/-Jest-%23A44200?logo=jest) ![Cypress](https://img.shields.io/badge/-Cypress-%2344CCFF?logo=cypress) ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-%234A4063?logo=testinglibrary) ![Vitest](https://img.shields.io/badge/-Vitest-%23628B48?logo=vitest)
 | **Misc** | ![Auth0](https://img.shields.io/badge/-Auth0-%2393032e?logo=auth0) ![Apollo](https://img.shields.io/badge/-Apollo-%238d86c9?logo=apollographql)
 
-## Stats
+## Stats 📊
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsstarr&show_icons=true&theme=dracula)
 
