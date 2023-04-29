@@ -17,6 +17,7 @@ Creative Technologist with excellent problem-solving skills & the ability to fun
 | **Mobile** | ![React Native](https://img.shields.io/badge/-React%20Native-blueviolet?logo=react)
 | **Cloud** | ![Heroku](https://img.shields.io/badge/-Heroku-purple?logo=heroku) ![Netlify](https://img.shields.io/badge/-Netlify-green?logo=netlify) ![Render](https://img.shields.io/badge/-Render-ff69b4?logo=render) ![MongoBD Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-darkgreen?logo=mongodb)
 | **Testing** | ![Jest](https://img.shields.io/badge/-Jest-%23A44200?logo=jest) ![Cypress](https://img.shields.io/badge/-Cypress-%2344CCFF?logo=cypress) ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-%234A4063?logo=testinglibrary) ![Vitest](https://img.shields.io/badge/-Vitest-%23628B48?logo=vitest)
+| **Misc** | ![Auth0](https://img.shields.io/badge/-Auth0-%2393032e?logo=auth0) ![Apollo](https://img.shields.io/badge/-Apollo-%238d86c9?logo=apollographql)
 
 ## Stats
 
